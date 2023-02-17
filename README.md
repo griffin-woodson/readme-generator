@@ -26,4 +26,3 @@
   Email me at griffin.woodson@gmail.com
 
   ## Video Walkthrough
-
